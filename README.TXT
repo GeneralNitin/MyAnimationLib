@@ -1,3 +1,14 @@
+==================
+USAGE INSTRUCTIONS
+==================
+
+
+Import -> import AcutalProgramming.AnimationV2; // ActualProgramming My YouTube Channel
+Object -> AnimationV2 AC = new AnimationV2(); // Version 2 has fade in and out effects as well, however still needs refining
+Calling -> AC.jPanelXLeft(int start, int stop, int delay, int increment, JPanel jPanel);
+
+Additional info -> // Start, Stop are the Coordinates; Delay is the time it takes to finish the animation; Increment is by how much                           it moves after a loop; SwingComponent Object.
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
