@@ -1,5 +1,5 @@
 ==================
-USAGE INSTRUCTIONS
+HOW TO USE?
 ==================
 
 
